@@ -12,7 +12,7 @@ You can download the presentation material above, or using the following links:
 
 - [James Davey](https://www.linkedin.com/in/james-davey-0aa996197/) — 
 - [Tim Hargreaves](https://www.linkedin.com/in/tim-hargreaves/) — [Predicting Approval Ratings Using Social Media Data](https://github.com/warwickdatascience/opening-the-black-box/raw/master/shapley_values/presentation.pptx)
-- [Farhan Tariq](https://www.linkedin.com/in/ftariq1/) — 
+- [Farhan Tariq](https://www.linkedin.com/in/ftariq1/) — [Interpretting with LIME](https://github.com/warwickdatascience/opening-the-black-box/raw/master/lime/presentation.pptx))
 
 To keep up-to-date with WDSS, please follow us on our social media accounts:
 
